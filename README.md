@@ -305,8 +305,8 @@ MIT License - свободно для исследований и коммерч
 
 ## 📮 Контакты
 
-- **GitHub Issues:** [Сообщить о проблеме](https://github.com/rusfbm-collab/yantra/issues)
-- **Discussions:** [Обсуждения](https://github.com/rusfbm-collab/yantra/discussions)
+ТГ rusfbm1
+rusfbm@gmail.com
 
 ---
 
